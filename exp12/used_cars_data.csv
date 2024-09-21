@@ -1,0 +1,17 @@
+S.No.,Brand,Location,Year,Kilometers_Driven,Fuel_Type,Transmission,Owner_Type,Model
+0,Maruti Wagon R LXI CNG,Mumbai,2010,72000,CNG,Manual,First,Wagon
+1,Hyundai Creta 1.6 CRDi SX Option,Pune,2015,41000,Diesel,Manual,First,Creta
+2,Honda Jazz V,Chennai,2011,46000,Petrol,Manual,First,Jazz
+3,Maruti Ertiga VDI,Chennai,2012,87000,Diesel,Manual,First,Ertiga
+4,Audi A4 New 2.0 TDI Multitronic,Coimbatore,2013,40670,Diesel,Automatic,Second,A4
+5,Nissan Micra Diesel XV,Jaipur,2013,86999,Diesel,Manual,First,Micra
+6,Toyota Innova Crysta 2.8 GX AT 8S,Mumbai,2016,36000,Diesel,Automatic,First,Innova
+7,Volkswagen Vento Diesel Comfortline,Pune,2013,64430,Diesel,Manual,First,Vento
+8,Tata Indica Vista Quadrajet LS,Chennai,2012,65932,Diesel,Manual,Second,Indica
+9,Maruti Ciaz Zeta,Kochi,2018,25692,Petrol,Manual,First,Ciaz
+10,Honda City 1.5 V AT Sunroof,Kolkata,2012,60000,Petrol,Automatic,First,City
+11,Maruti Swift VDI BSIV,Jaipur,2015,64424,Diesel,Manual,First,Swift
+12,Land Rover Range Rover 2.2L Pure,Delhi,2014,72000,Diesel,Automatic,First,Rover
+13,Land Rover Freelander 2 TD4 SE,Pune,2012,85000,Diesel,Automatic,Second,Rover
+14,Honda Amaze S i-Dtech,Kochi,2016,58950,Diesel,Manual,First,Amaze
+15,Maruti Swift DDiS VDI,Jaipur,2017,25000,Diesel,Manual,First,Swift

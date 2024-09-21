@@ -1,0 +1,11 @@
+userid,gender,age,estimated_salary,purchased
+1,male,19,30000,0
+2,male,20,35000,0
+3,female,20,40000,1
+4,male,18,25000,0
+5,female,21,28000,1
+6,female,19,35000,1
+7,male,22,50000,0
+8,female,20,40000,1
+9,male,21,32000,0
+10,female,20,23000,1
